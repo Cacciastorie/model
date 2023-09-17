@@ -10,7 +10,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://i.imgur.com/BMUMB1H.jpeg
+
 
 newmtl Dmetal_diaganal_metal.jpg
 Ns 94.117647
@@ -21,7 +21,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://i.imgur.com/BMUMB1H.jpeg
+
 
 
 newmtl Material.001
@@ -33,7 +33,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://i.imgur.com/BMUMB1H.jpeg
+
 
 newmtl Material.002
 Ns 94.117647
@@ -44,5 +44,5 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://i.imgur.com/BMUMB1H.jpeg
+
 
