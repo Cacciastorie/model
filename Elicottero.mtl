@@ -2,7 +2,7 @@
 # www.blender.org
 
 newmtl Dmetal
-Ns 0.000000
+Ns 94.117647
 Ka 1.000000 1.000000 1.000000
 Kd 0.800000 0.800000 0.800000
 Ks 0.000000 0.000000 0.000000
@@ -13,7 +13,7 @@ illum 2
 map_Kd https://res.cloudinary.com/dgsldnr0c/image/upload/v1587317589/diaganal_metal_ttceqh.jpg
 
 newmtl Dmetal_diaganal_metal.jpg
-Ns 0.000000
+Ns 94.117647
 Ka 1.000000 1.000000 1.000000
 Kd 0.800000 0.800000 0.800000
 Ks 0.000000 0.000000 0.000000
@@ -24,7 +24,7 @@ illum 2
 map_Kd https://res.cloudinary.com/dgsldnr0c/image/upload/v1587317589/diaganal_metal_ttceqh.jpg
 
 newmtl Material.001
-Ns 0.000000
+Ns 94.117647
 Ka 1.000000 1.000000 1.000000
 Kd 0.800000 0.800000 0.800000
 Ks 0.000000 0.000000 0.000000
@@ -35,7 +35,7 @@ illum 2
 map_Kd https://res.cloudinary.com/dgsldnr0c/image/upload/v1587317589/blackwindow_c9o49k.jpg
 
 newmtl Material.002
-Ns 0.000000
+Ns 94.117647
 Ka 1.000000 1.000000 1.000000
 Kd 0.800000 0.800000 0.800000
 Ks 0.000000 0.000000 0.000000
