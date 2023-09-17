@@ -8,7 +8,7 @@ Ks 0.100000 0.100000 0.100000
 Ke 0.000000 0.000000 0.000000
 Ni 1.450000
 d 1.000000
-illum 2
+illum 1
 map_Bump https://i.postimg.cc/C5q3Rgt0/Book-Paper-Side-Roughness.png
 map_Kd https://i.postimg.cc/MHNLwFKL/giornale-Roma-Primo.jpg
 map_Ns 
