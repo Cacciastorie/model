@@ -8,6 +8,6 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd https://www.icacciastorie.it/wp-content/uploads/2023/08/emailbackground.jpg
-map_Ns https://www.icacciastorie.it/wp-content/uploads/2023/08/emailbackground.jpg
-map_Bump -bm 1.000000 https://www.icacciastorie.it/wp-content/uploads/2023/08/emailbackground.jpg
+map_Kd https://github.com/Cacciastorie/model/blob/150946ebbff782d54bb1d0b853f7765a04df6941/giornaleRomaIrene%20(Primo).jpg
+map_Ns https://github.com/Cacciastorie/model/blob/150946ebbff782d54bb1d0b853f7765a04df6941/giornaleRomaIrene%20(Primo).jpg
+map_Bump -bm 1.000000 https://github.com/Cacciastorie/model/blob/150946ebbff782d54bb1d0b853f7765a04df6941/giornaleRomaIrene%20(Primo).jpg
